@@ -7,5 +7,5 @@ References:
 
 Steps: 
 - Make change in code of model.py or any other file in edit mode
-- Commit changes
+- Commit changes > Actions
 - Click update > run > see runing action
